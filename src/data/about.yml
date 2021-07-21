@@ -1,0 +1,56 @@
+aboutMe:
+  name: นันทิพัฒน์ พันธรักษ์
+  title: Software Developer
+  bio: รหัสนักศึกษา 6110110238
+  long_summary_title: Personal Infomation
+  long_summary: I'm a fourth year computer engineering student at Prince of Songkla University (PSU) hatyai campus.I'm creative and enthusiastic to gather new knowledge. I've obtained experience of developing mobile application and website. I'm a hard working individual who could efficiently find solutions for any difficulty and cooperates well with others.
+  long_summary_title2: Education
+  long_summary2: Prince of Songkla University (PSU)   Major of Computer Engineering | 2018 - Present   GPA 3.16 (Rank 3rd from all computer engineering student)
+  hashtags: 
+    - 'มหาวิทยาลัยสงขลานครินทร์'
+    - 'คณะวิศวกรรมศาสตร์'
+    - 'สาขาวิศวกรรมคอมพิวเตอร์'
+    - 'ชั้นปีที่4'
+  timeline: 
+    - event: พ.ศ.2543
+      caption: ถือกำเนิด
+      desc: เกิดเมื่อวันที่ 11 มกราคม พ.ศ.2543 ณ.โรงพยาบาลกรุงเทพหาดใหญ่
+    - event: พ.ศ.2546-2548
+      caption: เข้าเรียนชั้นอนุบาล1-3
+      desc: โรงเรียนธิดานุเคราะห์ ด้วยเกรดเฉลี่ยสะสม -
+    - event: พ.ศ.2549-2551
+      caption: เข้าเรียนชั้นประถม1-3
+      desc: โรงเรียนแสงทองวิทยา ด้วยเกรดเฉลี่ยสะสม -
+    - event: พ.ศ.2552-2554
+      caption: เข้าเรียนชั้นประถม4-6
+      desc: โรงเรียนแสงทองวิทยา ด้วยเกรดเฉลี่ยสะสม -
+    - event: พ.ศ.2555-2557
+      caption: เข้าเรียนชั้นมัธยม1-3
+      desc: โรงเรียนแสงทองวิทยา ด้วยเกรดเฉลี่ยสะสม 3.18
+    - event: พ.ศ.2558-2560
+      caption: เข้าเรียนชั้นมัธยม4-6
+      desc: โรงเรียนแสงทองวิทยา ด้วยเกรดเฉลี่ยสะสม 3.52
+    - event: พ.ศ.2561-ปัจจุบัน
+      caption: เข้าเรียนมหาวิทยาลัย
+      desc: มหาวิทยาลัยสงขลานครินทร์ คณะวิศวกรรมศาสตร์ สาขาวิศวกรรมคอมพิวเตอร์ ชั้นปีที่4 ด้วยเกรดเฉลี่ยสะสม 3.16 (6 เทอม)
+  skills:
+    - name: Java
+      rank: 8
+    - name: Node.js
+      rank: 9
+    - name: HTML
+      rank: 10
+    - name: CSS
+      rank: 10
+    - name: Javascript
+      rank: 7
+    - name: Python
+      rank: 8
+    - name: MySQL
+      rank: 9
+    - name: Go
+      rank: 5
+    - name: MongoDB
+      rank: 10
+    - name: Ruby
+      rank: 7
