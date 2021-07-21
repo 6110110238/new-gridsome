@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'Nuntipat Pantarag',
   siteUrl: 'https://6110110238.github.io',
-  pathPrefix: '/my-gridsome',
+  pathPrefix: '/new-gridsome',
   plugins: [
     {
       use: "@gridsome/source-filesystem",
